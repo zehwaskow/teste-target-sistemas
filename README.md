@@ -3,4 +3,4 @@
 
 
 
-Código das questões solicitadas no teste de programação no processo seletivo
+Código das questões solicitadas no teste de programação do processo seletivo
